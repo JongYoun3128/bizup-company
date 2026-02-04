@@ -1,0 +1,131 @@
+{
+    "ko": {
+        "hero": {
+            "main": "설명하지 않아도<br>이해되는 전자명함",
+            "sub": "QR 하나로 소개·신뢰·연락까지<br> 한 번에 전달하세요.",
+            "point": "국내·해외 고객에게 <br>바로 전달 가능한 다국어 전자명함",
+            "cta": "명함을 바꾸면, 결과가 달라집니다."
+        },
+        "qr": {
+            "title": "QR 코드로 명함 공유하기",
+            "desc": "QR 코드를 스캔하면<br>이 명함을 바로 볼 수 있습니다"
+        }
+    },
+
+    "en": {
+        "hero": {
+            "main": "A digital business card that needs no explanation",
+            "sub": "Share introduction, trust, and contact information at once with a single QR code.",
+            "point": "A multilingual digital business card ready for both local and global clients",
+            "cta": "Change your business card. Change the result."
+        },
+        "qr": {
+            "title": "Share Business Card via QR Code",
+            "desc": "Scan the QR code<br>to view this digital business card"
+        }
+    },
+
+    "ja": {
+        "hero": {
+            "main": "説明しなくても伝わるデジタル名刺",
+            "sub": "QRコードひとつで、紹介・信頼・連絡先を一度に伝えられます。",
+            "point": "国内・海外のお客様にそのまま送れる多言語デジタル名刺",
+            "cta": "名刺を変えれば、結果が変わります。"
+        },
+        "qr": {
+            "title": "QRコードで名刺を共有",
+            "desc": "QRコードをスキャンすると<br>この名刺をすぐに確認できます"
+        }
+    },
+
+    "zh": {
+        "hero": {
+            "main": "无需说明也能理解的电子名片",
+            "sub": "通过一个二维码，一次性传递介绍、信任与联系方式。",
+            "point": "可直接发送给国内外客户的多语言电子名片",
+            "cta": "改变名片，结果就会不同。"
+        },
+        "qr": {
+            "title": "通过二维码分享名片",
+            "desc": "扫描二维码<br>即可立即查看该电子名片"
+        }
+    },
+
+    "fr": {
+        "hero": {
+            "main": "Une carte de visite numérique qui se comprend sans explication",
+            "sub": "Un seul QR code pour partager présentation, confiance et contact en une fois.",
+            "point": "Une carte de visite numérique multilingue pour les clients locaux et internationaux",
+            "cta": "Changez votre carte de visite. Les résultats changeront."
+        },
+        "qr": {
+            "title": "Partager la carte de visite par QR code",
+            "desc": "Scannez le QR code<br>pour voir cette carte de visite numérique"
+        }
+    },
+
+    "de": {
+        "hero": {
+            "main": "Eine digitale Visitenkarte, die keine Erklärung braucht",
+            "sub": "Mit nur einem QR-Code Vorstellung, Vertrauen und Kontakt auf einmal teilen.",
+            "point": "Eine mehrsprachige digitale Visitenkarte für nationale und internationale Kunden",
+            "cta": "Ändern Sie Ihre Visitenkarte. Ändern Sie das Ergebnis."
+        },
+        "qr": {
+            "title": "Visitenkarte per QR-Code teilen",
+            "desc": "Scannen Sie den QR-Code<br>um diese digitale Visitenkarte anzusehen"
+        }
+    },
+
+    "es": {
+        "hero": {
+            "main": "Una tarjeta digital que se entiende sin explicaciones",
+            "sub": "Con un solo código QR, comparta presentación, confianza y contacto a la vez.",
+            "point": "Una tarjeta digital multilingüe para clientes nacionales e internacionales",
+            "cta": "Cambia tu tarjeta. Cambian los resultados."
+        },
+        "qr": {
+            "title": "Compartir tarjeta con código QR",
+            "desc": "Escanee el código QR<br>para ver esta tarjeta digital"
+        }
+    },
+
+    "it": {
+        "hero": {
+            "main": "Un biglietto da visita digitale che non ha bisogno di spiegazioni",
+            "sub": "Con un solo QR code, condividi presentazione, fiducia e contatti in un attimo.",
+            "point": "Un biglietto da visita digitale multilingue per clienti locali e internazionali",
+            "cta": "Cambia il tuo biglietto da visita. Cambia il risultato."
+        },
+        "qr": {
+            "title": "Condividi il biglietto da visita tramite QR",
+            "desc": "Scansiona il QR code<br>per visualizzare questo biglietto digitale"
+        }
+    },
+
+    "pt": {
+        "hero": {
+            "main": "Um cartão digital que dispensa explicações",
+            "sub": "Com um único QR Code, compartilhe apresentação, confiança e contato de uma vez.",
+            "point": "Um cartão digital multilíngue para clientes nacionais e internacionais",
+            "cta": "Mude seu cartão. Mude os resultados."
+        },
+        "qr": {
+            "title": "Compartilhar cartão via QR Code",
+            "desc": "Escaneie o QR code<br>para ver este cartão digital"
+        }
+    },
+
+    "ru": {
+        "hero": {
+            "main": "Цифровая визитка, не требующая объяснений",
+            "sub": "Один QR-код — и вся информация, доверие и контакты передаются сразу.",
+            "point": "Многоязычная цифровая визитка для клиентов в стране и за рубежом",
+            "cta": "Измените визитку — изменятся и результаты."
+        },
+        "qr": {
+            "title": "Поделиться визиткой через QR-код",
+            "desc": "Отсканируйте QR-код<br>чтобы увидеть эту цифровую визитку"
+        }
+    }
+}
