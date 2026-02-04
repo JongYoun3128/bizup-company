@@ -56,6 +56,10 @@ body {
     color: var(--text-dark);
     background-color: var(--bg-white);
     overflow-x: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 img {
