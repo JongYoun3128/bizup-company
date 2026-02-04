@@ -645,8 +645,16 @@ section {
     overflow: hidden;
     transition: var(--transition);
     border: 2px solid var(--border-color);
+    position: relative;
 }
-
+.fda {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.fda img {
+    width: 60px;
+}
 .product-card:hover {
     transform: translateY(-8px);
     box-shadow: var(--shadow-lg);
@@ -711,6 +719,32 @@ section {
     color: var(--text-light);
     line-height: 1.7;
     margin-bottom: var(--spacing-md);
+}
+.product-fda {
+    margin-top: var(--spacing-md);
+    padding: var(--spacing-md);
+    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+    border-radius: var(--radius-sm);
+    border-left: 4px solid var(--primary-color);
+}
+
+.fda-text {
+    font-size: 0.9rem;
+    color: var(--text-dark);
+    line-height: 1.6;
+    margin-bottom: var(--spacing-sm);
+}
+
+.fda-info {
+    font-size: 0.85rem;
+    color: var(--text-light);
+    margin: 4px 0;
+    line-height: 1.5;
+}
+
+.fda-info strong {
+    color: var(--primary-color);
+    font-weight: 700;
 }
 
 .product-content .btn {
