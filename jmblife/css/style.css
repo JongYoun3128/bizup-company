@@ -80,7 +80,10 @@ body {
     color: #c7b157;
     margin-top: 5px;
 }
-
+.profile-link-title span {
+    font-size: 10px;
+    color: red;
+}
 .info-section {
     margin-top: 80px;
     display: flex;
