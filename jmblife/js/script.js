@@ -189,11 +189,10 @@ function fallbackCopyToClipboard(text) {
 
     document.body.removeChild(textArea);
 }
-
 // 다국어 번역 데이터
 const translations = {
     ko: {
-        position: "대표",
+        position: "회장",
         name: "손 광 명",
         address: "제주 제주시 연삼로 714",
         tagline: "Business &<br /> Consulting",
@@ -322,7 +321,6 @@ const translations = {
         sms: "Сообщение",
     },
 };
-
 // 현재 언어 설정
 let currentLang = "ko";
 
